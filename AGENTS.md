@@ -1,5 +1,7 @@
 ## Before you start
 
+Using all skills under `.agents` / `.claude` to optimize the resume creation process.
+
 Read the `PERSONAILITY.md` to understand who want to create a resume and what he/she want to add to his/her resume.
 
 Collect all the information from the `/references` dir and then follow the `PERSONAILITY.md` to create a resume. The resume should not related to any documents in the `/references` dir, but should be based on the information in the `/references` dir.
